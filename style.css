@@ -1,0 +1,16 @@
+div {
+    margin: 50px auto;
+    text-align: center;
+}
+.penumpang-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.hapus-btn {
+    cursor: pointer;
+    color: red;
+    margin-left: 10px;
+    font-size: 20px;
+}
